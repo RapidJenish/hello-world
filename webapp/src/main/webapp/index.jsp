@@ -1,3 +1,4 @@
+<H1> Sample HTML Form </H1>
 <form>
   <label for="fname">First name:</label><br>
   <input type="text" id="fname" name="fname"><br>
